@@ -1,0 +1,14 @@
+[
+  {
+    "httpRequest": {
+      "method": "GET",
+      "path": "/api/v1/test"
+    },
+    "httpResponse": {
+      "body": {
+        "value": "this is a test"
+      },
+      "statusCode": 200
+    }
+  }
+]
